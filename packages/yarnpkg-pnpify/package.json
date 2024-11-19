@@ -11,7 +11,7 @@
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/nm": "workspace:^",
     "clipanion": "^3.2.0-rc.4",
-    "cross-spawn": "7.0.3",
+    "cross-spawn": "7.0.5",
     "tslib": "^1.13.0"
   },
   "devDependencies": {
